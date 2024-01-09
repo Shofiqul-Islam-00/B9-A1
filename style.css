@@ -5,8 +5,26 @@
     padding-top: 20px;
     padding-left: 40px;
     padding-right: 40px;
-    opacity: calc();
+    
 }
+
+.dark-image
+{
+    filter: brightness(70%);
+}
+
+
+.text-banner-overlay
+{
+    position: absolute;
+    top: 200px; 
+    left: 450px; 
+    color: white; 
+    font-size: 30px; 
+    font-family: monospace;
+    text-align: center;
+}
+
 
 .font
 {
@@ -42,3 +60,106 @@
     padding-left: 40px;
     padding-right: 40px;
 }
+
+
+
+.img-3 {
+    position: relative;
+    display: inline-block;
+    margin-top:100px ;
+    margin-left: 40px;
+    margin-right: 80px;
+    
+  }
+  
+  .overlay-image {
+    position: absolute;
+    top: 90px;
+    right: 70px; 
+  }
+
+.background-image
+  {
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right:40px;
+  }
+
+  .text-overlay {
+    position: absolute;
+    top: 150px; 
+    left: 200px; 
+    color: white; 
+    font-size: 30px; 
+    font-family: monospace;
+   
+  }
+  
+  .text2-overlay {
+    position: absolute;
+    top: 320px; 
+    left: 200px; 
+    color: white; 
+    font-size: 30px; 
+    font-family: serif,'Times New Roman', Times, serif;
+   
+  }
+
+  .btn-1
+  {
+    position: absolute;
+    top: 500px; 
+    left: 200px; 
+    color: white;
+    background-color: #f80202;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+
+  .btn-1:hover
+  {
+    background-color: #04f14b;
+  }
+
+  .image-container
+  {
+    background-color: pink;
+    padding: 150px;
+    color: white;
+    margin-top:100px ;
+    margin-left: 70px;
+    margin-right: 50px;
+    border-radius: 20px;
+  }
+
+  .place-time
+  {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+  }
+
+  .place-time
+  {
+    color: #f80202;
+  }
+
+  .place2
+  {
+    color: white;
+    font-size: larger;
+
+  }
+
+  .image-container-2
+  {
+    
+    padding: 150px;
+    color: black;
+    margin-top:100px ;
+    margin-left: 70px;
+    margin-right: 50px;
+    border-radius: 20px;
+  }
