@@ -163,3 +163,166 @@
     margin-right: 50px;
     border-radius: 20px;
   }
+
+  .best-offer
+  {
+    color: red;
+  }
+
+  .coming-soon
+  {
+    font-size: xx-large;
+  }
+
+  .img-4
+  
+   {
+  }
+  .offer-2024
+  {
+    color: red;
+  }
+  
+  .sec-5
+  {
+    margin-left: 70px;
+  }
+
+  .img-6
+  {
+    margin-left: 70px;
+  }
+
+  .tr-1
+  {
+    text-align: center;
+    width: 100%;
+  }
+
+  .table-1
+{
+  color: #f80202;
+}
+
+.subscribe
+{
+  color: black;
+}
+
+.sub-2
+{
+  color: black;
+}
+
+.subscribe-form {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.subscribe-form input[type="email"]
+ {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+.subscribe-form input[type="submit"] 
+{
+  padding: 8px 15px;
+  border-radius: 20px;
+  background-color: #f70606;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.image-container-3
+  {
+    background-color: rgb(240, 220, 224);
+    padding: 150px;
+    color: white;
+    margin-top:100px ;
+    margin-left: 70px;
+    margin-right: 50px;
+    border-radius: 20px;
+  }
+
+  .footer
+  {
+    background-color: rgb(2, 2, 24);
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .left-content,
+  .right-content {
+    flex: 1;
+  }
+
+  
+  .left-content 
+  {
+    text-align: left;
+    color: white;
+  }
+
+  .right-content 
+  {
+    text-align: right;
+    color: white;
+  }
+
+  .image-container-4
+   {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .image-container-4 img
+   {
+    max-width: 100%;
+    height: auto;
+    margin: 5px; 
+  }
+
+  .subscribe-form-2
+  {
+  padding: 8px ;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  }
+
+  .image-container-5 
+  {
+    position: relative;
+    width: 300px; 
+    height: 300px; 
+  }
+
+  .image-container-5 img
+   {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    opacity: 90; 
+  }
